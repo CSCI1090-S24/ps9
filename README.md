@@ -8,7 +8,7 @@ You will be doing your work in a Colab notebook.
 4. You will download your Colab notebook to your computer, move it into this repository, and add, commit, and push it to GitHub, just like you have done for previous problem sets.
 5. You will *not* alter the Colab notebook after the deadline. If you do -- even just to fix a typo! -- it will look like you turned the notebook in late. When you put a copy in your GitHub repo, you'll ensure that the TAs will grade the right thing.
 
-[Here is a link to the PS8 Colab notebook](https://colab.research.google.com/drive/1pptHiifBKZmdsUuF-jgc2tWR5hV3X9co?usp=sharing)
+[Here is a link to the PS9 Colab notebook](https://colab.research.google.com/drive/1pptHiifBKZmdsUuF-jgc2tWR5hV3X9co?usp=sharing)
 
 If you think you see an error or typo, let me know! I will update [this version of the repo](https://github.com/CSCI1090-S24/ps9) with any corrections you suggest.
 
